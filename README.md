@@ -6,13 +6,10 @@
     ##
   
 <div>
-<a href-"https://github.com/Paravani">
-<img height-"180em" src-"https://github-readme-stats.vercel.app/api?username-Paravani&show_1cons-true&theme-dracula&include_all_commits-truelcount_private-true"l>
-<img height-"180em" src-"https://github-readmt-stats.vercel.app/api/top-langs/?username"Paravani&layout=compact&langs_count=16&theme-dracula"/>
+ <a href-"https://github.com/Paravani">
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paravani&show_1cons-true&theme=dracula&include_all_commits-truel&count_private-true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paravani&layout=compact&langs_count=16&theme-dracula"/>
 </div>
-
-
-
 
 <div> 
   <a href="https://www.youtube.com/@djparavanidz7" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
