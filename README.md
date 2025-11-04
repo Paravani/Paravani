@@ -3,7 +3,6 @@
 - Atualmente, estou aprendendo sobre desenvolvimento desktop, pretendo aprofundar bastante na area backend
 - Busco vagas de estagio para poder aprofundar sobre a area
 - Gosto bastante de novos ares e sempre aprender mais e mais
-- vai tomar no cu biel
     ##
   
 <div>
