@@ -1,5 +1,5 @@
-## salve tropa, Aqui é o Miguel Paravani 
-😶‍🌫️ Sobre mim
+## Ola recrutadores, me chamo Miguel Paravani Domingos
+😶‍🌫️ Contando um pouco Sobre mim
 - Atualmente, estou aprendendo sobre desenvolvimento desktop, pretendo aprofundar bastante na area backend
 - Busco vagas de estagio para poder aprofundar sobre a area
 - Gosto bastante de novos ares e sempre aprender mais e mais
